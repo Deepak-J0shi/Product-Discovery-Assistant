@@ -8,7 +8,7 @@ Prototype link: https://product-discovery-assistant-ochre.vercel.app/
 <img width="797" height="638" alt="image" src="https://github.com/user-attachments/assets/7344dddb-a0ff-4f69-86f0-70a5b924e758" />
 
 ---
-
+ 
 # **Table of Contents**
 
 1. [Overview](#overview)
